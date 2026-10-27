@@ -1,4 +1,4 @@
-#Project-2:    
+#internship_project-2:    
 #Business Management:    
 '''import tkinter as tk
 from tkinter import messagebox
